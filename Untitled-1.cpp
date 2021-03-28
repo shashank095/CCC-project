@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
     system("cls");
-    cout<<"\nhello world";
+  cout<<1; 
+   cout<<"\nhello world";
 }
